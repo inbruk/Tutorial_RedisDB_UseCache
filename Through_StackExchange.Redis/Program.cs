@@ -19,7 +19,6 @@ namespace UseCache
             redisDb.StringSet("1", "updated 1");
             Console.WriteLine("Updated value from redis = " + redisDb.StringGet("1"));
             Console.ReadKey();
-
         }
     }
 }
