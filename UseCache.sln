@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseCache", "UseCache\UseCache.csproj", "{5759D355-5453-4529-B01F-F8915ED832E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Through_ServiceStack.Redis", "Through_ServiceStack.Redis\Through_ServiceStack.Redis.csproj", "{6EE3C517-6163-46E9-9706-0E857B7C1484}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5759D355-5453-4529-B01F-F8915ED832E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5759D355-5453-4529-B01F-F8915ED832E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5759D355-5453-4529-B01F-F8915ED832E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5759D355-5453-4529-B01F-F8915ED832E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE3C517-6163-46E9-9706-0E857B7C1484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE3C517-6163-46E9-9706-0E857B7C1484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE3C517-6163-46E9-9706-0E857B7C1484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE3C517-6163-46E9-9706-0E857B7C1484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
